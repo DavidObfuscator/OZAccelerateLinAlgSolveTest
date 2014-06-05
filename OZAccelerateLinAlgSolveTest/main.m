@@ -32,5 +32,6 @@ int main(int argc, char * argv[]) {
     NSLog(@"result:\nx=%f\ny=%f\nz=%f", resultBuffer[0], resultBuffer[1], resultBuffer[2]);
     NSLog(@"Avg. Runtime: %llu ns", t_0);
     
+    free(resultBuffer);
     return 0;
 }
