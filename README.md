@@ -22,6 +22,6 @@ OZAccelerateLinAlgSolveTest is available under the MIT license. See the LICENSE 
 
 David Roka:
 
-- GitHub: <https://github.com/MyUserIsTaken>
-- Twitter: <https://twitter.com/csopfadttorpe>
+- GitHub: <https://github.com/DavidObfuscator>
+- Twitter: <https://twitter.com/DavidObfuscator>
 - email: <github@optimizen.org>
